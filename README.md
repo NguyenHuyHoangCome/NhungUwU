@@ -24,9 +24,9 @@
 
 
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NhungUwU&show_icons=true&theme=dracula&count_private=true" alt="" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhungUwU&layout=compact&theme=dracula" alt="" /> 
+
 </p>
 
 <p align="center">
