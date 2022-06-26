@@ -29,4 +29,33 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
+</a>
+
+<br>
+
+### 🛠️ My Projects
+<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+
+
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=NhungUwU&show_icons=true&theme=dracula&count_private=true" alt="" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhungUwU&layout=compact&theme=dracula" alt="" /> 
+</p>
+
+<p align="center">
+<a href="https://dev.to/hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
+<a href="https://codesandbox.com/hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="hypnguyen1209" height="20" width="20" /></a>
+<a href="https://fb.com/hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" width="20" /></a>
+<a href="https://medium.com/@hypnguyen1209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="" height="20" width="20" /></a>
+</p>
